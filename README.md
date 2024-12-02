@@ -13,7 +13,8 @@
 
 ## Screenshots
 
-![Homepage Screenshot](screenshot.png)
+<!-- ![Homepage Screenshot](Screenshot 2024-12-02 083544.png) -->
+<center> <img src="Screenshot-2024-12-02083544.png"> </center>
 
 ## Tech Stack
 

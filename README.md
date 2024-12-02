@@ -126,5 +126,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 **Contact Information**
 
-- **Developer**: [Your Name](mailto:your-email@example.com)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **Developer**: [Abhijeet Singh](mailto:abstar072002@gmail.com)
+- **GitHub**: [My Github](https://github.com/abhijeetGithu)

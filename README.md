@@ -1,7 +1,7 @@
 
-# Job Hunt - MERN Stack Application
+# CareerHive - MERN Stack job Application
 
-**Job Hunt** is a MERN (MongoDB, Express.js, React.js, Node.js) stack project designed to help users search, apply, and find their dream jobs. It features a user-friendly interface and essential functionalities for job hunting.
+**CareerHive** is a MERN (MongoDB, Express.js, React.js, Node.js) stack project designed to help users search, apply, and find their dream jobs. It features a user-friendly interface and essential functionalities for job hunting.
 
 ## Features
 
@@ -45,7 +45,7 @@ Follow these steps to run the project locally:
 
 ### Clone Repository
 ```bash
-git clone https://github.com/your-username/job-hunt.git
+git clone https://github.com/abhijeetGithu/CareerHive-hunting-plateform.git
 cd job-hunt
 ```
 
@@ -127,5 +127,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 **Contact Information**
 
-- **Developer**: [Your Name](mailto:your-email@example.com)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **Developer**: [Abhijeet Singh](mailto:abstar072002@gmail.com)
+- **GitHub**: [My Github](https://github.com/abhijeetGithu)

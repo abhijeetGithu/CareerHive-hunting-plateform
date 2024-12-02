@@ -16,6 +16,7 @@
 <!-- ![Homepage Screenshot](Screenshot 2024-12-02 083544.png) -->
 <center> <img src="Screenshot-2024-12-02083544.png"> </center>
 <center> <img src="Screenshot-2024-12-02-182318.png"> </center>
+<center> <img src="Screenshot-2024-12-02-183026.png"> </center>
 
 ## Tech Stack
 

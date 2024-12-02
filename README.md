@@ -44,7 +44,7 @@ Follow these steps to run the project locally:
 
 ### Clone Repository
 ```bash
-git clone https://github.com/your-username/job-hunt.git
+git clone https://github.com/abhijeetGithu/CareerHive-hunting-plateform.git
 cd job-hunt
 ```
 

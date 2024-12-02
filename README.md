@@ -1,7 +1,7 @@
 
 # Job Hunt - MERN Stack Application
 
-**Job Hunt** is a MERN (MongoDB, Express.js, React.js, Node.js) stack project designed to help users search, apply, and find their dream jobs. It features a user-friendly interface and essential functionalities for job hunting.
+**Job Seeker Pro** is a MERN (MongoDB, Express.js, React.js, Node.js) stack project designed to help users search, apply, and find their dream jobs. It features a user-friendly interface and essential functionalities for job hunting.
 
 ## Features
 

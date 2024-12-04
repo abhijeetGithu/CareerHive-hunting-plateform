@@ -94,7 +94,7 @@ Visit `http://localhost:5173` to view the application.
 ## Folder Structure
 
 ```
-job-hunt/
+CareerHive/
 ├── backend/        # Backend code
 │   ├── models/     # Mongoose models
 │   ├── routes/     # API routes

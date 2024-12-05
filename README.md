@@ -94,7 +94,7 @@ npm start
 
 ### Open Application
 
-Visit `http://localhost:5173` to view the application.
+Visit `https://careerhive-hunting-plateform.onrender.com` to view the application.
 
 ## Folder Structure
 

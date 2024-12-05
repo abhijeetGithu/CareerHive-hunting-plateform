@@ -1,6 +1,6 @@
 
 # CareerHive - MERN Stack job Application
-
+### Live Website
 [Check out the live website here](https://careerhive-hunting-plateform.onrender.com)
 
 **CareerHive** is a MERN (MongoDB, Express.js, React.js, Node.js) stack project designed to help users search, apply, and find their dream jobs. It features a user-friendly interface and essential functionalities for job hunting.

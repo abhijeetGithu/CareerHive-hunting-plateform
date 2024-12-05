@@ -19,9 +19,8 @@
 <center> <img src="Screenshot-2024-12-02-1830261.png"> </center>
 
 ### Video Demo
-<a href="https://drive.google.com/file/d/YOUR_VIDEO_ID/view?usp=sharing" target="_blank">
-  <img src="https://drive.google.com/file/d/1OZ8FrSV4jwdYFDpBzmtRJNs-jMaXgPFg/view?usp=sharing" alt="CareerHive Video Demo" width="600"/>
-</a>
+[Watch the Video Demo](https://drive.google.com/file/d/1OZ8FrSV4jwdYFDpBzmtRJNs-jMaXgPFg/view?usp=sharing)
+
 
 ## Tech Stack
 

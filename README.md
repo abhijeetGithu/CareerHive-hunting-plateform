@@ -18,6 +18,10 @@
 <center> <img src="Screenshot-20242.png"> </center>
 <center> <img src="Screenshot-20243.png"> </center>
 
+### Video Demo
+[Watch the Video Demo](https://drive.google.com/file/d/1OZ8FrSV4jwdYFDpBzmtRJNs-jMaXgPFg/view?usp=sharing)
+
+
 ## Tech Stack
 
 ### Frontend

@@ -18,6 +18,10 @@ export const register = async (req, res) => {
         const fileUri = getDataUri(file);
         const cloudResponse = await cloudinary.uploader.upload(fileUri.content);
 
+        console.log("File from multer:", req.file);
+        console.log("File URI Content:", fileUri);
+
+
         const user = await User.findOne({ email });
         if (user) {
             return res.status(400).json({

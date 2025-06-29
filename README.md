@@ -89,7 +89,7 @@ npm start
 #### Frontend
 ```bash
 cd frontend
-npm start
+npm run dev
 ```
 
 ### Open Application
